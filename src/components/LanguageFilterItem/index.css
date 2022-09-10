@@ -1,0 +1,27 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.language-item {
+  margin-right: 30px;
+}
+.language-button {
+  border: none;
+  background-color: transparent;
+  color: #0f172a;
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.selected-button {
+  border: 1px solid #0284c7;
+  border-radius: 20px;
+  color: #0284c7;
+}
